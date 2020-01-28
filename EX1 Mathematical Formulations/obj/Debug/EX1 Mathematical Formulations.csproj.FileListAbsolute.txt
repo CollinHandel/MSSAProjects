@@ -1,0 +1,6 @@
+C:\Users\Collin\Documents\Visual Studio 2019\Projects\EX1 Mathematical Formulations\obj\Debug\EX1 Mathematical Formulations.csprojAssemblyReference.cache
+C:\Users\Collin\Documents\Visual Studio 2019\Projects\EX1 Mathematical Formulations\bin\Debug\EX1 Mathematical Formulations.exe.config
+C:\Users\Collin\Documents\Visual Studio 2019\Projects\EX1 Mathematical Formulations\bin\Debug\EX1 Mathematical Formulations.exe
+C:\Users\Collin\Documents\Visual Studio 2019\Projects\EX1 Mathematical Formulations\bin\Debug\EX1 Mathematical Formulations.pdb
+C:\Users\Collin\Documents\Visual Studio 2019\Projects\EX1 Mathematical Formulations\obj\Debug\EX1 Mathematical Formulations.exe
+C:\Users\Collin\Documents\Visual Studio 2019\Projects\EX1 Mathematical Formulations\obj\Debug\EX1 Mathematical Formulations.pdb

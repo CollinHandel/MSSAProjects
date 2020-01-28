@@ -1,0 +1,6 @@
+C:\Users\Collin\Desktop\VCSBS\Chapter 3\Factorial\Factorial\bin\Debug\DailyRate.exe.config
+C:\Users\Collin\Desktop\VCSBS\Chapter 3\Factorial\Factorial\bin\Debug\DailyRate.exe
+C:\Users\Collin\Desktop\VCSBS\Chapter 3\Factorial\Factorial\bin\Debug\DailyRate.pdb
+C:\Users\Collin\Desktop\VCSBS\Chapter 3\Factorial\Factorial\obj\Debug\Factorial.csprojAssemblyReference.cache
+C:\Users\Collin\Desktop\VCSBS\Chapter 3\Factorial\Factorial\obj\Debug\DailyRate.exe
+C:\Users\Collin\Desktop\VCSBS\Chapter 3\Factorial\Factorial\obj\Debug\DailyRate.pdb
