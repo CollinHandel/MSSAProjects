@@ -50,7 +50,7 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ClassLibrary\ClassLibrary.csproj">
+    <ProjectReference Include="ClassLibrary\ClassLibrary.csproj">
       <Project>{8d195120-8aac-4032-ac6d-8d324a46f7ff}</Project>
       <Name>ClassLibrary</Name>
     </ProjectReference>
