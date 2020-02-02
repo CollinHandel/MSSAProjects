@@ -8,7 +8,38 @@ namespace EX1_Mathematical_Formulations
 {
     class Program
     {
+        
         static void Main()
+        {
+            int x = 5;
+
+            x = Test(x);
+
+            Console.Write(x);
+
+            Console.ReadKey();
+        }
+
+
+        static int Test(int x)
+        {
+            x = 8;
+            return x;
+        }
+
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        
+        /*static void Main()
         {
             try {
                 int selected = 0;
@@ -65,7 +96,7 @@ namespace EX1_Mathematical_Formulations
 
             Console.ReadKey();
 
-        }
+        }*/
         
         static void Circumference()
         {
