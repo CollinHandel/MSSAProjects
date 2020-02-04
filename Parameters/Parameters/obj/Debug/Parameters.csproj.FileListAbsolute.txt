@@ -1,0 +1,6 @@
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Parameters\Parameters\bin\Debug\Parameters.exe.config
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Parameters\Parameters\bin\Debug\Parameters.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Parameters\Parameters\bin\Debug\Parameters.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Parameters\Parameters\obj\Debug\Parameters.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Parameters\Parameters\obj\Debug\Parameters.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Parameters\Parameters\obj\Debug\Parameters.pdb

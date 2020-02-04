@@ -1,0 +1,6 @@
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Classes\Classes\bin\Debug\Classes.exe.config
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Classes\Classes\bin\Debug\Classes.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Classes\Classes\bin\Debug\Classes.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Classes\Classes\obj\Debug\Classes.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Classes\Classes\obj\Debug\Classes.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\Classes\Classes\obj\Debug\Classes.pdb
