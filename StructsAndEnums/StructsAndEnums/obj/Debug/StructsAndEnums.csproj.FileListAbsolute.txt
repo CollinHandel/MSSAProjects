@@ -1,0 +1,6 @@
+C:\Users\Owner\Desktop\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe.config
+C:\Users\Owner\Desktop\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.exe
+C:\Users\Owner\Desktop\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\bin\Debug\StructsAndEnums.pdb
+C:\Users\Owner\Desktop\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Desktop\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.exe
+C:\Users\Owner\Desktop\Microsoft Press\VCSBS\Chapter 9\StructsAndEnums\StructsAndEnums\obj\Debug\StructsAndEnums.pdb
