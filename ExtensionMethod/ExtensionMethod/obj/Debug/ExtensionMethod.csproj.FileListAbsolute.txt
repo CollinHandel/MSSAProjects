@@ -1,0 +1,6 @@
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe.config
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ExtensionMethod\ExtensionMethod\bin\Debug\ExtensionMethod.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ExtensionMethod\ExtensionMethod\obj\Debug\ExtensionMethod.pdb

@@ -1,0 +1,6 @@
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\MoreFunWithArrays\bin\Debug\MoreFunWithArrays.exe.config
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\MoreFunWithArrays\bin\Debug\MoreFunWithArrays.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\MoreFunWithArrays\bin\Debug\MoreFunWithArrays.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\MoreFunWithArrays\obj\Debug\MoreFunWithArrays.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\MoreFunWithArrays\obj\Debug\MoreFunWithArrays.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\MoreFunWithArrays\obj\Debug\MoreFunWithArrays.pdb
