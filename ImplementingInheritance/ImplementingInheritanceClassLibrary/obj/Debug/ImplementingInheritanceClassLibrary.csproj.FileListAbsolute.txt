@@ -1,0 +1,5 @@
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritanceClassLibrary\bin\Debug\ImplementingInheritanceClassLibrary.dll
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritanceClassLibrary\bin\Debug\ImplementingInheritanceClassLibrary.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritanceClassLibrary\obj\Debug\ImplementingInheritanceClassLibrary.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritanceClassLibrary\obj\Debug\ImplementingInheritanceClassLibrary.dll
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritanceClassLibrary\obj\Debug\ImplementingInheritanceClassLibrary.pdb

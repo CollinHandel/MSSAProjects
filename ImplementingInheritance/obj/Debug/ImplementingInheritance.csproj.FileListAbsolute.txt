@@ -1,0 +1,9 @@
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritance\bin\Debug\ImplementingInheritance.exe.config
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritance\bin\Debug\ImplementingInheritance.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritance\bin\Debug\ImplementingInheritance.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritance\bin\Debug\ImplementingInheritanceClassLibrary.dll
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritance\bin\Debug\ImplementingInheritanceClassLibrary.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritance\obj\Debug\ImplementingInheritance.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritance\obj\Debug\ImplementingInheritance.csproj.CopyComplete
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritance\obj\Debug\ImplementingInheritance.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ImplementingInheritance\obj\Debug\ImplementingInheritance.pdb

@@ -1,0 +1,6 @@
+C:\Users\chimp\source\repos\InterviewPractice\bin\Debug\InterviewPractice.exe.config
+C:\Users\chimp\source\repos\InterviewPractice\bin\Debug\InterviewPractice.exe
+C:\Users\chimp\source\repos\InterviewPractice\bin\Debug\InterviewPractice.pdb
+C:\Users\chimp\source\repos\InterviewPractice\obj\Debug\InterviewPractice.csprojAssemblyReference.cache
+C:\Users\chimp\source\repos\InterviewPractice\obj\Debug\InterviewPractice.exe
+C:\Users\chimp\source\repos\InterviewPractice\obj\Debug\InterviewPractice.pdb
