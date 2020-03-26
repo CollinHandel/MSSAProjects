@@ -1,5 +1,0 @@
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\ClassLibrary\bin\Debug\ClassLibrary.dll
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\ClassLibrary\bin\Debug\ClassLibrary.pdb
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\ClassLibrary\obj\Debug\ClassLibrary.csprojAssemblyReference.cache
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\ClassLibrary\obj\Debug\ClassLibrary.dll
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\ClassLibrary\obj\Debug\ClassLibrary.pdb

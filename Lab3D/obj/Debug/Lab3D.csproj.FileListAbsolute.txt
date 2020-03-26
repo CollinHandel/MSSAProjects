@@ -1,9 +1,0 @@
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3D\bin\Debug\Lab3D.exe.config
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3D\bin\Debug\Lab3D.exe
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3D\bin\Debug\Lab3D.pdb
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3D\obj\Debug\Lab3D.csprojAssemblyReference.cache
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3D\obj\Debug\Lab3D.exe
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3D\obj\Debug\Lab3D.pdb
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3D\bin\Debug\ClassLibrary.dll
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3D\bin\Debug\ClassLibrary.pdb
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3D\obj\Debug\Lab3D.csproj.CopyComplete

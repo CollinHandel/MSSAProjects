@@ -1,6 +1,0 @@
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\TestHello\bin\Debug\TestHello.exe.config
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\TestHello\bin\Debug\TestHello.exe
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\TestHello\bin\Debug\TestHello.pdb
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\TestHello\obj\Debug\TestHello.csprojAssemblyReference.cache
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\TestHello\obj\Debug\TestHello.exe
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\TestHello\obj\Debug\TestHello.pdb

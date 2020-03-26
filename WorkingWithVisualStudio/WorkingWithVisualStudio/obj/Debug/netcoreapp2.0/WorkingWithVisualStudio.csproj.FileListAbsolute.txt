@@ -1,0 +1,15 @@
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\bower.json
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\bundleconfig.json
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\Properties\launchSettings.json
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.deps.json
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.runtimeconfig.json
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.runtimeconfig.dev.json
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\bin\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.csprojAssemblyReference.cache
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.AssemblyInfoInputs.cache
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.AssemblyInfo.cs
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.dll
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.pdb
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.genruntimeconfig.cache
+C:\Users\Owner\Documents\Visual Studio 2019\Projects\MSSAProjects\WorkingWithVisualStudio\WorkingWithVisualStudio\obj\Debug\netcoreapp2.0\WorkingWithVisualStudio.csproj.CoreCompileInputs.cache

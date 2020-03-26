@@ -1,6 +1,0 @@
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Ex2ACollin\bin\Debug\Ex2ACollin.exe.config
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Ex2ACollin\bin\Debug\Ex2ACollin.exe
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Ex2ACollin\bin\Debug\Ex2ACollin.pdb
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Ex2ACollin\obj\Debug\Ex2ACollin.csprojAssemblyReference.cache
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Ex2ACollin\obj\Debug\Ex2ACollin.exe
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Ex2ACollin\obj\Debug\Ex2ACollin.pdb

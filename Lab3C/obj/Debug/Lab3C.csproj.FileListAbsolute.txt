@@ -1,6 +1,0 @@
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3C\bin\Debug\Lab3C.exe.config
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3C\bin\Debug\Lab3C.exe
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3C\bin\Debug\Lab3C.pdb
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3C\obj\Debug\Lab3C.csprojAssemblyReference.cache
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3C\obj\Debug\Lab3C.exe
-C:\Users\Collin\Documents\Visual Studio 2019\Projects\Lab3C\obj\Debug\Lab3C.pdb
