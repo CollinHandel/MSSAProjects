@@ -1,0 +1,6 @@
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe.config
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ParamsArray\ParamsArray\bin\Debug\ParamsArray.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ParamsArray\ParamsArray\bin\Debug\ParamsArray.pdb
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ParamsArray\ParamsArray\obj\Debug\ParamsArray.csprojAssemblyReference.cache
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ParamsArray\ParamsArray\obj\Debug\ParamsArray.exe
+C:\Users\chimp\Documents\Visual Studio 2019\Projects\MSSAProjects\ParamsArray\ParamsArray\obj\Debug\ParamsArray.pdb
